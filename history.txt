@@ -1,0 +1,6 @@
+history
+pwd
+cd
+mkdir 1234
+ls
+exit
