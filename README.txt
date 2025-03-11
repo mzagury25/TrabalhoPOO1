@@ -37,7 +37,7 @@ Como Executar
     bash
     Copy
 
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/mzagury25/TrabalhoPOO1
     cd seu-repositorio
 
     Compile o programa:
