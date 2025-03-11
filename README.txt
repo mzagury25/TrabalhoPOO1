@@ -37,7 +37,7 @@ Como Executar
     bash
     Copy
 
-    git clone https://github.com/mzagury25/TrabalhoPOO1
+    git clone https://github.com/mzagury25/terminalJava
     cd seu-repositorio
 
     Compile o programa:
